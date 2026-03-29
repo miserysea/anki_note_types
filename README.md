@@ -37,7 +37,7 @@ For AnkiDroid users, I recommend using the new study screen with the frame style
   
 ## 3. How to use
   
-1. Download the .apkg file and import it into Anki. The note type will be automatically added to your collection. Now if you have an existing deck that you would like to migrate to this template:
+1. [Download the .apkg file](./basic_note_type.apkg?raw=true) and import it into Anki. The note type will be automatically added to your collection. Now if you have an existing deck that you would like to migrate to this template:
 2. Open the Anki Browser.
 3. Select the cards you wish to update.
 4. Right-click and navigate to Notes > Change Note Type.
