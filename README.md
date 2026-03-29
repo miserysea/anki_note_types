@@ -19,8 +19,9 @@ The Hanzi Writer integration provides animated stroke orders for Chinese and Jap
 
 ## 2. What to expect
 
-<div align="center">
 This outlines the fields and example content for a complete card, so you know exactly what to expect:
+
+<div align="center">
 
 | Field Name | Example Content |
 | :--------- | :----------------------------------------------------- |
@@ -30,12 +31,12 @@ This outlines the fields and example content for a complete card, so you know ex
 | Back Audio | [sound:daytime_AriaNeural_148.mp3] |
 | Resources | báitiān |
 | Image | <img src="img/7.png" width="60"> |
+
 </div>
-
-For AnkiDroid users, I recommend using the new study screen with the frame style box and gesture-based navigation for the best experience. If the desktop version feels stuttery, try switching the video driver in your general preferences.
-
   
 ## 3. How to use
+
+### For AnkiDroid users, I recommend using the new study screen with the frame style box and gesture-based navigation for the best experience. If the desktop version feels stuttery, try switching the video driver in your general preferences.
   
 1. [Download the .apkg file](./basic_note_type.apkg?raw=true) and import it into Anki. The note type will be automatically added to your collection. Now if you have an existing deck that you would like to migrate to this template:
 2. Open the Anki Browser.
